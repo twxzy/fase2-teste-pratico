@@ -11,6 +11,7 @@ A landing page é composta por seções bem definidas, com layout limpo, respons
 
 ## 🧱 Estrutura da Página
 
+
 ### 🔝 Navbar
 - Navegação fixa com links para as seções:
   - O Residencial
@@ -18,6 +19,7 @@ A landing page é composta por seções bem definidas, com layout limpo, respons
   - Diferenciais
   - Contato
 - Logotipo centralizado, com destaque visual.
+
 
 ---
 
@@ -29,11 +31,20 @@ A landing page é composta por seções bem definidas, com layout limpo, respons
 
 ---
 
+![Preview da Landing](parte-1.png)
+
+---
+
 ### ✨ Seção: Uma experiência única de vida
 - Bloco textual destacando qualidade, localização, natureza e bem-estar.
 - Grade de 6 imagens arredondadas ilustrando ambientes do empreendimento.
 
 ---
+
+![Preview da Landing](parte-2.png)
+
+---
+
 
 ### 🧩 Seção: Destaques do Empreendimento
 Grade de cartões com ícones e descrições:
@@ -46,11 +57,20 @@ Grade de cartões com ícones e descrições:
 
 ---
 
+![Preview da Landing](parte-3.png)
+
+---
+
 ### 📍 Seção: Localização privilegiada
 - Endereço: Avenida InfoIdeias Software, 100
 - Mapa integrado (visual ilustrativo de localização em SP)
 
 ---
+
+![Preview da Landing](parte-4.png)
+
+---
+
 
 ### 🗓️ Seção: Formulário de Agendamento
 - Texto convite para visita ao apartamento decorado
@@ -65,12 +85,20 @@ Grade de cartões com ícones e descrições:
 
 ---
 
+![Preview da Landing](parte-5.png)
+
+---
+
 ### 📞 Rodapé
 - Blocos divididos em:
   - Sobre o residencial
   - Links de navegação
   - Contato
   - Redes sociais
+
+---
+
+![Preview da Landing](parte-6.png)
 
 ---
 
